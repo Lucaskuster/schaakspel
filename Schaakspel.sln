@@ -1,6 +1,16 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Schaakspel", "Schaakspel\Schaakspel.csproj", "{AA46DE0E-9E56-43E8-8565-8FCF838C0033}"
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Schaakspel", "Schaakspel\Schaakspel.csproj", "{AA46DE0E-9E56-43E8-8565-8FCF838C0033}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F9125922-97D6-40F7-AC04-9449B82AAD8C}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{D15C6FA8-8682-418E-BE93-B2873C39520C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +22,11 @@ Global
 		{AA46DE0E-9E56-43E8-8565-8FCF838C0033}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA46DE0E-9E56-43E8-8565-8FCF838C0033}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA46DE0E-9E56-43E8-8565-8FCF838C0033}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04F4E3A8-6A24-459E-B362-4949A1C61B9A}
 	EndGlobalSection
 EndGlobal
