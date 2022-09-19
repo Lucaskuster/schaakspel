@@ -7,5 +7,10 @@ public class MakeMoveCommandHandler
     {
 
     }
+    
+    public void MakeMoveCommand()
+    {
+        
+    }
 
 }
