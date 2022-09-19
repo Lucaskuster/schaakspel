@@ -20,7 +20,7 @@ namespace Schaakspel
         {
             if (ModelState.IsValid)
             {
-                _makeMoveCommandHandler.MakeMoveCommand(makeMoveCommand);
+                _makeMoveCommandHandler.HandleCommand(makeMoveCommand);
             }
             return Ok();
         }
