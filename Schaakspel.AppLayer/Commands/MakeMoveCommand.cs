@@ -1,4 +1,4 @@
-﻿namespace Schaakspel;
+﻿namespace Schaakspel.AppLayer.Commands;
 
 public class MakeMoveCommand
 {
