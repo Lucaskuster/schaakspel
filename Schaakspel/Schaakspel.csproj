@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
         <OutputType>Exe</OutputType>
@@ -23,6 +23,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\Schaakspel.AppLayer\Schaakspel.AppLayer.csproj" />
+      <ProjectReference Include="..\Schaakspel.Context\Schaakspel.Context.csproj" />
     </ItemGroup>
 
 </Project>
