@@ -10,6 +10,11 @@ public class MakeMoveCommandHandler
     {
 
     }
+    
+    public void MakeMoveCommand()
+    {
+        
+    }
 
     public Bord HandleCommand(MakeMoveCommand command)
     {
