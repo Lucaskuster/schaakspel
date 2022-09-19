@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Schaakspel.Context\Schaakspel.Context.csproj" />
+  </ItemGroup>
+
 </Project>

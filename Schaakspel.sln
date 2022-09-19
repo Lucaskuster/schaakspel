@@ -14,6 +14,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{D15C6F
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Schaakspel.AppLayer", "Schaakspel.AppLayer\Schaakspel.AppLayer.csproj", "{2C4FBAC2-08E5-4B32-9884-2A44D41E57DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Schaakspel.Context", "Schaakspel.Context\Schaakspel.Context.csproj", "{C99FCFFB-C077-4D72-BB32-C3CF7BF47C74}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -28,6 +30,10 @@ Global
 		{2C4FBAC2-08E5-4B32-9884-2A44D41E57DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C4FBAC2-08E5-4B32-9884-2A44D41E57DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C4FBAC2-08E5-4B32-9884-2A44D41E57DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C99FCFFB-C077-4D72-BB32-C3CF7BF47C74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C99FCFFB-C077-4D72-BB32-C3CF7BF47C74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C99FCFFB-C077-4D72-BB32-C3CF7BF47C74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C99FCFFB-C077-4D72-BB32-C3CF7BF47C74}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
