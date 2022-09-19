@@ -1,6 +1,7 @@
 ﻿namespace Schaakspel;
 
-public class EventHandler
+public class Controller
 {
+    
     
 }

@@ -8,4 +8,8 @@
         <DockerDefaultTargetOS>Windows</DockerDefaultTargetOS>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Compile Remove="CommandHandler.cs" />
+    </ItemGroup>
+
 </Project>
