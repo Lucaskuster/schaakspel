@@ -3,4 +3,8 @@
 public class Toren : Stuk
 {
 
+    public Toren() :base()
+    {
+
+    }
 }

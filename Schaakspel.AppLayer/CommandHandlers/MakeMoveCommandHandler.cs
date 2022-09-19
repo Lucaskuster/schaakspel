@@ -13,8 +13,8 @@ public class MakeMoveCommandHandler
 
     public Bord HandleCommand(MakeMoveCommand command)
     {
-        //TODO: Event ophalen uit;
-        var previousEvents = new List<Event>();
+        //TODO: Event ophalen uit db;
+        var previousEvents = new List<StukBewogen>();
 
         var bord = new Bord(previousEvents);
 

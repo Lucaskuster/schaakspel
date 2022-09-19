@@ -2,5 +2,8 @@
 
 public class Stuk
 {
+    public Stuk()
+    {
 
+    }
 }
