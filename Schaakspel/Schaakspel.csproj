@@ -8,6 +8,10 @@
         <DockerDefaultTargetOS>Windows</DockerDefaultTargetOS>
     </PropertyGroup>
 
+	<ItemGroup>
+		<PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+	</ItemGroup>
+
     <ItemGroup>
       <Compile Remove="CommandHandler.cs" />
     </ItemGroup>
