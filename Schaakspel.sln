@@ -12,6 +12,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{D15C6FA8-8682-418E-BE93-B2873C39520C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Schaakspel.ServiceLayer", "Schaakspel.ApplicationLayer\Schaakspel.ServiceLayer.csproj", "{01EEE431-1E0F-41EE-A18D-18EC18C7AB22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Schaakspel.AppLayer", "Schaakspel.AppLayer\Schaakspel.AppLayer.csproj", "{2C4FBAC2-08E5-4B32-9884-2A44D41E57DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -22,6 +26,14 @@ Global
 		{AA46DE0E-9E56-43E8-8565-8FCF838C0033}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA46DE0E-9E56-43E8-8565-8FCF838C0033}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA46DE0E-9E56-43E8-8565-8FCF838C0033}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01EEE431-1E0F-41EE-A18D-18EC18C7AB22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01EEE431-1E0F-41EE-A18D-18EC18C7AB22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01EEE431-1E0F-41EE-A18D-18EC18C7AB22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01EEE431-1E0F-41EE-A18D-18EC18C7AB22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C4FBAC2-08E5-4B32-9884-2A44D41E57DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C4FBAC2-08E5-4B32-9884-2A44D41E57DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C4FBAC2-08E5-4B32-9884-2A44D41E57DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C4FBAC2-08E5-4B32-9884-2A44D41E57DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
